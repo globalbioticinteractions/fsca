@@ -1,5 +1,7 @@
 {
   "format": "dwca",
   "citation": "Florida State Collection of Arthropods",
-  "url": "https://ecdysis.org/content/dwca/FSCA_DwC-A.zip"
+  "_url": "https://ecdysis.org/content/dwca/FSCA_DwC-A.zip",
+  "_comment": "due to (temporary) outage of the Symbiota Hosted Portal Platforms, point to a versioned copy of an earlier produced DwC-A",
+  "url": "FSCA_DwC-A.zip"
 }
